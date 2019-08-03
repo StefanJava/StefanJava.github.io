@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://StefanJava.github.io</id>
     <title>Gridea</title>
-    <updated>2019-08-03T04:29:29.112Z</updated>
+    <updated>2019-08-03T04:30:37.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://StefanJava.github.io"/>
     <link rel="self" href="https://StefanJava.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://StefanJava.github.io/images/avatar.png</logo>
     <icon>https://StefanJava.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[StefanYang的博客]]></title>
+        <id>https://StefanJava.github.io/post/stefanyang-de-bo-ke</id>
+        <link href="https://StefanJava.github.io/post/stefanyang-de-bo-ke">
+        </link>
+        <updated>2019-08-03T04:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎大家关注我的博客</p>
+]]></content>
+    </entry>
 </feed>
